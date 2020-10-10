@@ -8,7 +8,7 @@ clear custom_choice
 menu This is a Test Menu
 item --gap Linux Live
 item Lubuntu ${space} Loading a kernel and initrd
-item option_two ${space} Loading an ISO
+item WinPE10 ${space} Windows 10 PE
 item --gap This is a second sub menu
 item option_three ${space} Loads another custom sub menu
 item option_four ${space} This is option four
